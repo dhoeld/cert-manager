@@ -42,4 +42,4 @@ You can get a copy of the static manifests from the `deploy directory`_.
 
 .. _`charts repository`: https://github.com/kubernetes/charts
 .. _`Helm chart README`: https://github.com/kubernetes/charts/blob/master/stable/cert-manager/README.md
-.. _`deploy directory`: https://github.com/jetstack/cert-manager/blob/master/contrib/manifests/cert-manager
+.. _`deploy directory`: https://github.com/jetstack/cert-manager/blob/master/deploy/manifests
